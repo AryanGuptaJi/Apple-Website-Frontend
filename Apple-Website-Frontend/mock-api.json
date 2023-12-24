@@ -1,0 +1,93 @@
+{
+    "products": [
+        {
+            "title": "iPhone 13 Pro",
+            "description": "The most advanced iPhone ever.",
+            "price": "$999",
+            "color": "Graphite",
+            "image": "IPhone 13 Pro.jpg",
+            "specifications": {
+                "display": "Super Retina XDR, 6.1 inches",
+                "camera": "Triple 12MP system with Night mode",
+                "processor": "A15 Bionic chip",
+                "storage": "128GB"
+            },
+            "reviews": [
+                {
+                    "user": "John Doe",
+                    "rating": 5,
+                    "comment": "Amazing phone! Great camera quality."
+                },
+                {
+                    "user": "Jane Smith",
+                    "rating": 4,
+                    "comment": "Love the design and performance."
+                },
+                {
+                    "user": "Bob Johnson",
+                    "rating": 3,
+                    "comment": "Decent, but a bit pricey."
+                }
+            ]
+        },
+        {
+            "title": "MacBook Air",
+            "description": "Ultra-thin and light, perfect for everyday tasks.",
+            "price": "$999",
+            "color": "Silver",
+            "image": "Macbook Air.webp",
+            "specifications": {
+                "display": "Retina display, 13.3 inches",
+                "processor": "Apple M1 chip",
+                "memory": "8GB RAM",
+                "storage": "256GB SSD"
+            },
+            "reviews": [
+                {
+                    "user": "Alice Brown",
+                    "rating": 5,
+                    "comment": "Incredibly fast and portable."
+                },
+                {
+                    "user": "Charlie Green",
+                    "rating": 4,
+                    "comment": "Great value for the price."
+                },
+                {
+                    "user": "Eva White",
+                    "rating": 4,
+                    "comment": "Sleek design and powerful performance."
+                }
+            ]
+        },
+        {
+            "title": "iPad Pro",
+            "description": "Powerful and versatile, perfect for creative work.",
+            "price": "$799",
+            "color": "Space Gray",
+            "image": "iPad Pro.webp",
+            "specifications": {
+                "display": "Liquid Retina XDR, 11 inches",
+                "processor": "Apple M1 chip",
+                "storage": "128GB"
+            },
+            "reviews": [
+                {
+                    "user": "David Black",
+                    "rating": 5,
+                    "comment": "Excellent for digital art and multitasking."
+                },
+                {
+                    "user": "Fiona Gray",
+                    "rating": 4,
+                    "comment": "Impressive performance and display."
+                },
+                {
+                    "user": "Gary Red",
+                    "rating": 3,
+                    "comment": "Good, but a bit expensive."
+                }
+            ]
+        }
+    ]
+}
